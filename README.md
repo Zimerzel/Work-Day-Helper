@@ -1,3 +1,4 @@
+![scheduler](https://user-images.githubusercontent.com/79726069/116017252-b4e63d80-a604-11eb-87e4-d978b8537bd8.PNG)
 # Work-Day-Helper
 
 ## Purpose
