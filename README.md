@@ -28,4 +28,4 @@ hhtps
 ## Contribution
 Made By Zach Imerzel
 
-## 2021 Work Day Scheduler
+## ©️2021  Work Day Scheduler
