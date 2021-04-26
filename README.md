@@ -29,4 +29,3 @@ hhtps
 Made By Zach Imerzel
 
 ## 2021 Work Day Scheduler
-![image]()
